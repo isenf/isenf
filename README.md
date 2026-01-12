@@ -8,9 +8,9 @@
 
 ## ✨ GitHub Analytics
 <p align="center">
-  <img height="200em" src="https://github-readme-stats-xi-liart-35.vercel.app/api?username=isenf&show_icons=true&count_private=true&theme=synthwave&hide_border=true&bg_color=0a0a0a&title_color=e879f9&icon_color=22d3ee&text_color=f0f9ff&ring_color=e879f9" />
+  <img height="240em" src="https://github-readme-stats-xi-liart-35.vercel.app/api?username=isenf&show_icons=true&count_private=true&theme=synthwave&hide_border=true&bg_color=0a0a0a&title_color=e879f9&icon_color=22d3ee&text_color=f0f9ff&ring_color=e879f9" />
   
-  <img height="200em" src="https://github-readme-stats-xi-liart-35.vercel.app/api/top-langs/?username=isenf&layout=donut-vertical&count_private=true&theme=synthwave&hide_border=true&bg_color=0a0a0a&title_color=22d3ee&text_color=f0f9ff&langs_count=7" />
+  <img height="240em" src="https://github-readme-stats-xi-liart-35.vercel.app/api/top-langs/?username=isenf&layout=donut-vertical&count_private=true&theme=synthwave&hide_border=true&bg_color=0a0a0a&title_color=22d3ee&text_color=f0f9ff&langs_count=7" />
 </p>
 
 <p align="center">
