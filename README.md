@@ -3,7 +3,7 @@
 ## About me
 - 🎓 Studying Computer Engineering at the Federal University of Technology – Paraná (UTFPR)
 - 💻 Technical background in Systems Development
-- 🤖 Interested in Machine Learning Embedded Systems
+- 🤖 Interested in Machine Learning and Embedded Systems
 
 ## ✨ GitHub Analytics
 <p align="center">
