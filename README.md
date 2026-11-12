@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Fabro 👾
+# 👋 Hello, I'm Fabro 👾
 
 **Machine Learning · Embedded Systems**  
 Computer Engineering at UTFPR · Cornélio Procópio, Brazil
